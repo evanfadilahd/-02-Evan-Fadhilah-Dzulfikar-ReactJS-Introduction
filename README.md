@@ -104,4 +104,4 @@ Is there a change when you call the component in MyPage()?
 
 ### Jawaban Soal 6
 
-![Screenshot](assets-report/06.1.png)
+![Screenshot](assets-report/06.png)
